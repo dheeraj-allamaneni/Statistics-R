@@ -1,1 +1,3 @@
 Lets now begin to consider modeling and statistical analysis for circumstances where a mean response potentially depends upon several factors which may not be quantitative in nature (and thus MLR and its extensions are not obviously applicable). We begin with the simplest case, where two factors, that we will here simply call "A" and "B," have respectively I and J possible "levels" (these are different settings or values of the two factors), and a dataset has at least one observation for each of the I ·J different combinations of a level of A with a level of B. This kind of circumstance is called a complete (because no combinations lack data) two-way factorial context.
+Terms: MLR: Multiple Linear Regression
+       ANOVA: Analysis of variance
